@@ -35,5 +35,8 @@
   },
   "files": [
     "lib/**/*"
-  ]
+  ],
+  "dependencies": {
+    "user": "0.0.0"
+  }
 }
