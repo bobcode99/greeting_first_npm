@@ -1,7 +1,7 @@
 {
-  "name": "my_first_npm",
+  "name": "greeting_first_npm",
   "version": "1.0.0",
-  "description": "\"# My Awesome Greeter\"",
+  "description": "# My Awesome Greeter",
   "main": "index.js",
   "scripts": {
     "test": "jest --config jestconfig.json",
